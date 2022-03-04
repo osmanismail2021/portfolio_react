@@ -18,14 +18,6 @@ const Modal = ({showModal}) => {
         </div>
 
         <div className='cart'>
-            <Link to='/'>Designs</Link>
-        </div>
-
-        <div className='cart'>
-            <Link to='/'>Templates</Link>
-        </div>
-
-        <div className='cart'>
             <Link to='/'>Web Apps</Link>
         </div>
 
